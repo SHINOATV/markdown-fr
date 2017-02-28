@@ -13,18 +13,18 @@ Afin de créer un bloc de code en Markdown, il suffit d'identer chaque ligne du 
 Par exemple :
 
 ```
-Ceci est un paragraphe normal:
+Ceci est un paragraphe normal :
 
     Ceci est un bloc de code. 
 ```
 
-Vous pouvez également créer un bloc de code separé avec:
+Vous pouvez également créer un bloc de code separé avec :
 
     ```
 
 ### Bloc de code en ligne
 
-Les blocs de code en ligne peuvent être écrit en utilisant: `
+Les blocs de code en ligne peuvent être écrit en utilisant : `
 
 Par exemple:
 
